@@ -1,0 +1,536 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elizabeth Fools warning being a true and most perfect relation of all that has happened to her since her marriage. Being a caveat for all young women to marry with old men. / By Elizabeth With of Woodbridge.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96737</idno>
+            <idno type="STC">Wing W3139</idno>
+            <idno type="STC">Thomason E2122_1</idno>
+            <idno type="STC">ESTC R210157</idno>
+            <idno type="EEBO-CITATION">99868982</idno>
+            <idno type="PROQUEST">99868982</idno>
+            <idno type="VID">170577</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96737)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170577)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 242:E2122[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Elizabeth Fools warning being a true and most perfect relation of all that has happened to her since her marriage. Being a caveat for all young women to marry with old men. / By Elizabeth With of Woodbridge.</title>
+               </titleStmt>
+               <extent>[4], 12 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Coles in the Old-Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Text in black letter.</note>
+                  <note>Annotation on Thomason copy: "July July 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marriage --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170577:1" rendition="simple:additions"/>
+            <p>
+               <hi>ELIZABETH FOOLS</hi> WARNING, Being a true and moſt per<g ref="char:EOLhyphen"/>fect relation of all that has happened to her ſince her marriage.</p>
+            <p>Being a Caveat for all young women to marry with old men.</p>
+            <q xml:lang="lat">Experientia docet.</q>
+            <p>By <hi>Elizabeth With</hi> of <hi>Woodbridge.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Francis Coles</hi> in the <hi>Old-Baily.</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:170577:2"/>
+            <p>
+               <figure>
+                  <figDesc>woman with a nosegay</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:170577:3"/>
+            <pb n="1" facs="tcp:170577:3"/>
+            <head>How my old <hi>Naboth</hi> rejoy<g ref="char:EOLhyphen"/>ceth over his Conqueſt.</head>
+            <sp>
+               <l>MY old wife hath hang'd her ſelf,</l>
+               <l>as you may underſtand,</l>
+               <l>Now I have got a young wife,</l>
+               <l>ile bring her to my hand.</l>
+               <l>By my old wife, 'tis true,</l>
+               <l>a houſe I did inherit,</l>
+               <l>With my young wiſe I had nothing</l>
+               <l>but a deviliſh ſpirit.</l>
+               <l>Her ile curb, and keep under,</l>
+               <l>and lock her out of door,</l>
+               <l>Take away her meat and drink,</l>
+               <l>and never love her more.</l>
+               <l>It was my Siſters counſel,</l>
+               <l>that I ſhould uſe her ſo,</l>
+               <l>Though ſhe her ſelf doth Lord it,</l>
+               <l>and what ſhe liſts will do.</l>
+               <l>My ſiſter is a proud dame,</l>
+               <l>and hath ſtore of riches,</l>
+               <l>
+                  <pb n="2" facs="tcp:170577:4"/>
+And while her huſband liv'd</l>
+               <l>ſhe alwayes wore the britches.</l>
+               <l>My daughter is a Goldſmiths wife,</l>
+               <l>and lives on Tower Hill,</l>
+               <l>Her huſband is a loving man,</l>
+               <l>and lets her have her will.</l>
+               <l>My wife ſhall not ſo fool me,</l>
+               <l>her cloaths ſhe ſhall not weare,</l>
+               <l>Becauſe ſhe brought me nothing,</l>
+               <l>O take them daughter Dear.</l>
+            </sp>
+            <div type="part">
+               <head>Her Anſwer.</head>
+               <sp>
+                  <l>HUſband, for portion, 'tis true,</l>
+                  <l>I brought you none,</l>
+                  <l>I could have been without you,</l>
+                  <l>had you let me alone.</l>
+                  <l>You cry'd me in the Market,</l>
+                  <l>fie for ſhame, wherefore?</l>
+                  <l>Yet ſure I am it was not</l>
+                  <l>my cloaths for to reſtore.</l>
+                  <l>You know full well my ſilk gown</l>
+                  <l>I never wore two houres,</l>
+                  <l>And though your daughter wears it,</l>
+                  <l>ſhe's gay but with my flowers.</l>
+                  <l>Have I fine cloaths, I am content,</l>
+                  <l>or it I have none</l>
+                  <l>I hope all will be for the beſt.</l>
+                  <l>though my cloaths be gone.</l>
+                  <l>Whether I have ſomething,</l>
+                  <l>or nothing to inherit,</l>
+                  <l>Yet to a low condition</l>
+                  <l>I can frame my Spirit.</l>
+                  <l>It's not wealth or riches</l>
+                  <l>I ſo much require,</l>
+                  <l>
+                     <pb n="3" facs="tcp:170577:4"/>
+But Grace, Vertue, Goodneſſe</l>
+                  <l>above all I deſire:</l>
+                  <l>Let husband, ſiſter, daughter all</l>
+                  <l>againſt me conſpire,</l>
+                  <l>God turn their hearts, and kéep them</l>
+                  <l>from hells tormenting fire.</l>
+               </sp>
+            </div>
+         </div>
+         <div type="poem">
+            <head>Elizabeth Fools Warning.</head>
+            <lg>
+               <l>ALl you young women that live here in health</l>
+               <l>Marry not with old men, hoping to get wealth.</l>
+               <l>For riches have wings, and flie like the wind,</l>
+               <l>I married for riches, but none could I find.</l>
+               <l>Were I now to marry, learn would I more wit,</l>
+               <l>For now I am forced my living to get.</l>
+               <l>I married in youth, a man ſtruck in age,</l>
+               <l>Who vowed fond love, but fell into rage:</l>
+               <l>Inſtead of a kiſſe, I oft got a Ban,</l>
+               <l>And many a curſ'd blow from my old man:</l>
+               <l>Oh, fooliſh, ſimple, Eve, hadſt thou béen wiſe,</l>
+               <l>Thou mights have liv'd on earthly Paradiſe;</l>
+               <l>But now thou mayeſt repent, alas, too late,</l>
+               <l>Yet be contented with this thy mean eſtate.</l>
+               <l>When I in Woodbridge liv'd a maid,</l>
+               <l>All my good fortunes were betraid,</l>
+               <l>By an ancient widower living nigh,</l>
+               <l>Who caſt on me a deceitful eye;</l>
+               <l>He ſaid, if I would be his wife,</l>
+               <l>That I should live a happy life;</l>
+               <l>My Dame her councel did me give,</l>
+               <l>And ſaid how bravely I might live;</l>
+               <l>And if now young, I let my Fortune flip,</l>
+               <l>I never should at ſuch a brave match tip:</l>
+               <l>For then he told me flat and plain,</l>
+               <l>
+                  <pb n="4" facs="tcp:170577:5"/>
+That neatly he would me maintain.</l>
+               <l>His promiſes then did pleaſe me well,</l>
+               <l>I loved to go fine I muſt you tell,</l>
+               <l>Oh! I was fowly cheated by this old ſlim,</l>
+               <l>And on a Palmſunday was married to him</l>
+               <l>Unknown unto my kindred all</l>
+               <l>On ſlippery yce I then did fall.</l>
+            </lg>
+            <lg>
+               <l>I had not béen married one moneth unto him</l>
+               <l>But in the Seas of ſorrow I daily did ſwim;</l>
+               <l>That better have lived I might in a Iayle,</l>
+               <l>He and his children did at me ſo rail:</l>
+               <l>Both he and his Siſter at me did ſcoffe,</l>
+               <l>My Peacocks feathers they ſoon pluckt off:</l>
+               <l>Inſtead of ſmiles he gave me a frown</l>
+               <l>In his locking up my beſt ſilk gown,</l>
+               <l>Which with my petty-coats ſo neatly wrought</l>
+               <l>Into his Siſters Cheſt after he brought;</l>
+               <l>Which She lockt up upon that ſcore</l>
+               <l>That I ſhould never have them more.</l>
+            </lg>
+            <lg>
+               <l>How? patient Griſill what doſt thou now ſay?</l>
+               <l>Art thou contented with thy Gown of gray?</l>
+               <l>How canſt thou chuſe but mourn and wéep,</l>
+               <l>Whilſt this proud Peacock doth thy Fea<g ref="char:EOLhyphen"/>thers keep?</l>
+               <l>Fall down on thy knées to thy ſiſter unkind,</l>
+               <l>Perhaps that may pleaſe her ambitious mind.</l>
+               <l>Thy husband will rejoyce when he doth know</l>
+               <l>That thereby she hath humbled thee ſo low.</l>
+            </lg>
+            <lg>
+               <l>What ſhall I bend unto that Foe?</l>
+               <l>Who is the cauſe of all my woe;</l>
+               <l>That by the frs of her falſe lip</l>
+               <l>Is the chief cauſe if backward I ſlip.</l>
+               <l>
+                  <pb n="5" facs="tcp:170577:5"/>
+When firſt theſe waſps at me did flie</l>
+               <l>Then I would ſit me down and cry:</l>
+               <l>And many dayes I ſpent my tears in vain,</l>
+               <l>At length I left this crying ſtrain:</l>
+               <l>And when old Naboth plaid his part,</l>
+               <l>I did get patient Griſills heart.</l>
+            </lg>
+            <lg>
+               <l>The firſt year a ſon by him I had</l>
+               <l>Which made the old mans heart full ſad;</l>
+               <l>He wrung his hands and wiſhed his fleſh might rot</l>
+               <l>If ever another childe he got.</l>
+            </lg>
+            <lg>
+               <l>But within two years after</l>
+               <l>By him I did conceive a daughter,</l>
+               <l>And when he ſaw I did increaſe his flock,</l>
+               <l>Vpon his chamber door he hung a lock</l>
+               <l>For fear it ſhould conſume his malting ſtock;</l>
+               <l>I aſkt him then why he was ſo unkinde,</l>
+               <l>His anſwer was he would leave no beggars behinde;</l>
+               <l>I wiſh him of that minde, that I no more may have</l>
+               <l>Till his old proper perſon be laid deep in the grave:</l>
+               <l>When I to him (by marriage) was bound,</l>
+               <l>By me he had a piece of fruitful ground.</l>
+               <l>He has my youthful building very much de<g ref="char:EOLhyphen"/>fac'd</l>
+               <l>And many years hath laid my ground in waſte.</l>
+               <l>I pray then old man think of it not ill</l>
+               <l>If another ſhould thy Summer-land Till:</l>
+               <l>But truly I deſire no other man</l>
+               <l>But my own dear husband if I can.</l>
+               <l>
+                  <pb n="6" facs="tcp:170577:6"/>
+Paul doth exhort the woman to give her huſ<g ref="char:EOLhyphen"/>band no offence,</l>
+               <l>And eke the husband to give his wife due be<g ref="char:EOLhyphen"/>nevolence.</l>
+               <l>But woe to them I ſay,</l>
+               <l>by whom offences come,</l>
+               <l>'Twere better for them they had never béen born</l>
+               <l>unleſſe it had been done.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>How <hi>Elizabeth Foole</hi> and her husband parted by means of her Siſter in Law.</head>
+            <lg>
+               <l>
+                  <hi>I</hi> Lived with my old man full nigh ten year,</l>
+               <l>But at laſt (upon condition) I parted from my dear.</l>
+               <l>He and his ſiſter (yearly) were content</l>
+               <l>To allow me forty ſhillings to pay my rent.</l>
+               <l>I had but ſix pence in my purſe</l>
+               <l>which was to buy me bread:</l>
+               <l>And then I went to be a nurſe,</l>
+               <l>my body for to féed.</l>
+               <l>Vnto a poor woman, nurſe, was I,</l>
+               <l>as you may underſtand:</l>
+               <l>And always to her work was nigh,</l>
+               <l>and ready at her command.</l>
+               <l>Then did I go to houſe-keeping</l>
+               <l>which is the beſt of all:</l>
+               <l>Three weeks I lay upon a mat</l>
+               <l>turn'd up againſt a wall.</l>
+               <l>His Siſter lent me her flock bed,</l>
+               <l>my patience for to prove:</l>
+               <l>
+                  <pb n="7" facs="tcp:170577:6"/>
+But I return'd it her again,</l>
+               <l>flox choak her for her love.</l>
+               <l>Sometimes I did get ſowing work,</l>
+               <l>and ſometimes I got none:</l>
+               <l>Had not my ſon Thomas ſupply'd my wants</l>
+               <l>full hungry had I gone.</l>
+            </lg>
+            <lg>
+               <l>Now when a whole year was almoſt ſpent,</l>
+               <l>I aſk't my money to pay my rent:</l>
+               <l>But he ſaid one penny be would not give</l>
+               <l>For to maintain me whil'ſt I do live.</l>
+               <l>Yet here is a bone for the old man to knaw,</l>
+               <l>If he will it not me give, ile have it by Law.</l>
+            </lg>
+            <lg>
+               <l>All you that be diſpoſed</l>
+               <l>to abuſe me with your tongue,</l>
+               <l>I pray firſt conſider</l>
+               <l>whether I have done the wrong;</l>
+               <l>And look home to your own hearts,</l>
+               <l>and there perhaps you may ſee</l>
+               <l>Your minds incline to wandring thoughts</l>
+               <l>as much as others be.</l>
+            </lg>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>A true relation compoſed by her, after their parting, of all her ſufferings by him.</head>
+            <l>WHen as I ſet alone, and harm to none did mean,</l>
+            <l>I thought upon my ſorrows all,</l>
+            <l>On them I made this theame.</l>
+            <l>
+               <pb n="8" facs="tcp:170577:7"/>
+Dear husband pity me,</l>
+            <l>do not my ſuit diſdain,</l>
+            <l>But grant me ſome relief</l>
+            <l>and mine own cloaths again.</l>
+            <l>It is ten years ago</l>
+            <l>ſince firſt I loved thee,</l>
+            <l>But thy love's fled away</l>
+            <l>by the falſe fealouſie.</l>
+            <l>When we firſt married were</l>
+            <l>as other Couples be,</l>
+            <l>Within one ſix weeks time</l>
+            <l>thou toldſt thy minde to me:</l>
+            <l>Then of a Cherry got</l>
+            <l>from off thy Cherry-tree,</l>
+            <l>Thou ferchſt a pail of water then</l>
+            <l>and pour'd it all on me;</l>
+            <l>Then I ſate dreeping there,</l>
+            <l>almoſt wet to the skin:</l>
+            <l>This was my old man's love</l>
+            <l>to make me a wonderlin.</l>
+            <l>When he rail'd here and there.</l>
+            <l>then the wicked bent their bowe;</l>
+            <l>Thou haſt made my head to ake</l>
+            <l>with many a bitter blowe.</l>
+            <l>Thus you began your pranks,</l>
+            <l>and ſo did uſe your ſpight,</l>
+            <l>You ſold one houſe away,</l>
+            <l>to wrong me of my right.</l>
+            <l>Then you ſold your houſhold-ſtuff,</l>
+            <l>and theſe were your bad tricks,</l>
+            <l>Now your heart is grown ſo tough</l>
+            <l>you have turn'd me to my ſhifts.</l>
+            <l>You took away my bread,</l>
+            <l>and locked up my drink;</l>
+            <l>Was not this a wofull croſs,</l>
+            <l>
+               <pb n="9" facs="tcp:170577:7"/>
+let all my neighbours think?</l>
+            <l>You took away my bed,</l>
+            <l>which cauſed me to cry;</l>
+            <l>Yet all the Town ſhall plainly ſée,</l>
+            <l>ile bear it patiently.</l>
+            <l>Then I lay on the mat</l>
+            <l>many a cold Winters night;</l>
+            <l>And yet I am in health</l>
+            <l>though you did uſe your ſpight.</l>
+            <l>You took my cloaths from me,</l>
+            <l>for them I make great moane,</l>
+            <l>There's all I gain'd by thée,</l>
+            <l>now all my gain is gone:</l>
+            <l>Then did you let your houſe away</l>
+            <l>to drive me out of door.</l>
+            <l>I was fain to hire one roome,</l>
+            <l>you have made me now ſo poor.</l>
+            <l>Thus you uſed all the meanes</l>
+            <l>to make me a diſdein,</l>
+            <l>For full ſeven yeares of this ten</l>
+            <l>you did my bed refreine.</l>
+            <l>Though I no cauſe you gave,</l>
+            <l>nor nothing you could finde,</l>
+            <l>It was to try my conſtancy</l>
+            <l>you bore this knaviſh minde.</l>
+            <l>Then did you to Berry ride,</l>
+            <l>your bad cauſe to maintain;</l>
+            <l>Like an old fool you went,</l>
+            <l>ſo you came home againe.</l>
+            <l>Thus you ride here and there</l>
+            <l>with your envious face.</l>
+            <l>Now were it in your power,</l>
+            <l>you would me quite diſgrace.</l>
+            <l>Though ſome words I did ſpeak,</l>
+            <l>ſuch déeds I nere did none:</l>
+            <l>
+               <pb n="10" facs="tcp:170577:8"/>
+You with your writings large.</l>
+            <l>did make a knaviſh moan.</l>
+            <l>Oh have not ſuch a minde,</l>
+            <l>nor be not in a rage:</l>
+            <l>Do not ſeek here to bind</l>
+            <l>the ſtaffe of your old age.</l>
+            <l>Though your dart pierce my heart,</l>
+            <l>though your déeds me provoke:</l>
+            <l>I have a heart fit for your dart,</l>
+            <l>and prepared for your ſtroke.</l>
+            <l>And though you leave me hear,</l>
+            <l>and nothing to inherit:</l>
+            <l>It is not all your cruelty</l>
+            <l>ſhall ever curb my ſpirit.</l>
+            <l>Let railing Shimeon curſe,</l>
+            <l>let Naboth ſtrike his ſtroke;</l>
+            <l>Now Devil do thy worſt,</l>
+            <l>I have an heart of Oak.</l>
+            <l>But if thou loving be,</l>
+            <l>ile be the ſame to thee;</l>
+            <l>Come kiſſe thine own Betty</l>
+            <l>and then lets both agrée.</l>
+            <l>It I like Tamar ſhould do that</l>
+            <l>which is not good;</l>
+            <l>I may thank my old Judas</l>
+            <l>that makes me live ſo long in widowhood.</l>
+            <l>Judith judg'd Tamar to be burnt for ſin,</l>
+            <l>When he himſelf was the main cauſe therein.</l>
+         </div>
+         <div type="poem">
+            <head>Elizabeth Fools ſorrowful journey.</head>
+            <lg>
+               <l>WHen I did firſt to London go,</l>
+               <l>By hand was fill'd with care and woe.</l>
+               <l>
+                  <pb n="11" facs="tcp:170577:8"/>
+I hired a horſe, I do it not deny,</l>
+               <l>For when the ſeas were dangerous,</l>
+               <l>I would not go in a hoy.</l>
+               <l>But had I thought my journy would have béen ſo croſſe,</l>
+               <l>I would have gone on foot, &amp; not rid on a horſe.</l>
+               <l>I pray good people do not believe,</l>
+               <l>what ſome falſely do ſay,</l>
+               <l>That I am with the horſes Maſter</l>
+               <l>rid quite away.</l>
+               <l>To run away with a married man,</l>
+               <l>is a thing which I much ſcorn;</l>
+               <l>But I was willing to ride of his horſe</l>
+               <l>to have my charges born.</l>
+               <l>Now in this City I abide,</l>
+               <l>and he is gone over the main:</l>
+               <l>I wiſh good fortune him beſide,</l>
+               <l>till he come home again.</l>
+               <l>Vpon the road as I did ride,</l>
+               <l>this councel I did him give:</l>
+               <l>When he returned home again,</l>
+               <l>with his own wife to live.</l>
+               <l>I never adviſed him in all my life</l>
+               <l>to live with me from his own wife,</l>
+               <l>Although I love to laugh, jeſt,</l>
+               <l>and be merry,</l>
+               <l>Yet of ſuch kinde of ſnares</l>
+               <l>I will be wary.</l>
+               <l>Many perſons are apt to ſpie</l>
+               <l>the mote that's in anothers eye:</l>
+               <l>But when the beam is in their own</l>
+               <l>their evil déeds ſhall not be known</l>
+            </lg>
+            <lg>
+               <l>Now may your neighbours judge and ſay,</l>
+               <l>That you made one wife hang her ſelf,</l>
+               <l>and the other goe away.</l>
+               <l>
+                  <pb n="12" facs="tcp:170577:9"/>
+I care not for friend nor kin,</l>
+               <l>if I ſée they ſlight me:</l>
+               <l>'Tis not all their angry looks</l>
+               <l>which ſhall here afright me.</l>
+               <l>For if God doth lend me health</l>
+               <l>I can live without their wealth.</l>
+               <l>Let the toad and the ſpider ſpit poyſon their fill,</l>
+               <l>Yet the ſnake and the Adder ſhall nere have their will.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
